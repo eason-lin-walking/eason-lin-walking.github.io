@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://eason-lin-walking.github.io</id>
-    <title>eason...walking...walking...</title>
-    <updated>2021-01-16T17:17:27.803Z</updated>
+    <title>人生有多少个十年</title>
+    <updated>2021-01-16T17:22:03.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://eason-lin-walking.github.io"/>
     <link rel="self" href="https://eason-lin-walking.github.io/atom.xml"/>
-    <subtitle>keep clam and walking hard</subtitle>
+    <subtitle>KEEP CLAM AND WALKING HARD</subtitle>
     <logo>https://eason-lin-walking.github.io/images/avatar.png</logo>
     <icon>https://eason-lin-walking.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, eason...walking...walking...</rights>
+    <rights>All rights reserved 2021, 人生有多少个十年</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://eason-lin-walking.github.io/post/hello-gridea/</id>
